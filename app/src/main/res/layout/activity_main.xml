@@ -7,14 +7,11 @@
 
     <ImageView
         android:id="@+id/remote"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="41dp"
-        android:layout_marginTop="10dp"
-        android:layout_marginRight="41dp"
+        android:layout_width="901px"
+        android:layout_height="1945px"
+        android:layout_centerInParent="true"
         android:adjustViewBounds="true"
         android:contentDescription="@string/remote"
-        android:scaleType="centerCrop"
         app:srcCompat="@drawable/remote_white" />
 
 </RelativeLayout>
