@@ -1,8 +1,5 @@
 <resources>
-    <style name="Base.Theme.IDualRemote" parent="Theme.Material3.DayNight.NoActionBar">
-        <item name="android:statusBarColor">#0000</item>
-    </style>
-    <style name="Theme.IDualRemote" parent="Base.Theme.IDualRemote" >
-        <item name="android:statusBarColor">#0000</item>
+    <style name="MyTheme" parent="android:Theme.Black">
+        <item name="android:windowNoTitle">true</item>
     </style>
 </resources>

@@ -6,11 +6,10 @@
 
     <ImageView
         android:id="@+id/remote"
-        android:layout_width="901px"
-        android:layout_height="1945px"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:layout_centerInParent="true"
         android:adjustViewBounds="true"
         android:contentDescription="@string/remote"
-        android:src="@drawable/remote_white"
-/>
+        android:src="@drawable/remote_white" />
 </RelativeLayout>
